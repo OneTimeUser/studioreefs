@@ -198,7 +198,6 @@ section#email {
   section#soon {
     font-size: 15vw;
     flex-grow: 3;
-    white-space: pre;
   }
 
 }
