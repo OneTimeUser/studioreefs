@@ -179,3 +179,25 @@ section#email {
     transform: rotate(1deg);
   }
 }
+
+@media screen and (max-width: 576px) {
+
+  body {
+
+    font-size: 1.5em;
+    overflow: visible;
+
+  }
+  #whole {
+    height: 100dvh;
+  }
+  #reefs svg {
+    width: 80vw;
+  }
+
+  section#soon {
+    font-size: 15vw;
+    flex-grow: 3;
+  }
+
+}
