@@ -180,7 +180,7 @@ section#email {
   }
 }
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 768px) {
 
   body {
 
@@ -198,6 +198,7 @@ section#email {
   section#soon {
     font-size: 15vw;
     flex-grow: 3;
+    white-space: pre;
   }
 
 }
